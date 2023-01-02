@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachindebug&label=Profile%20views&color=0e75b6&style=flat" alt="sachindebug" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Full Stack Web development**
 
-- 💬 Ask me about **Problem Solving and Front end Web Devlopment**
+- 💬 Ask me about **Competitive Programming and Front end Web Devlopment**
 
 - 📫 How to reach me **st19138914@gmail.com**
 
