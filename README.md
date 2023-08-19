@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">A passionate Problem Solver & frontend developer from India.</h3>
+<h3 align="center">A passionate Problem Solver & backend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachindebug&label=Profile%20views&color=0e75b6&style=flat" alt="sachindebug" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web development**
+- 🌱 I’m currently learning **Database Design**
 
-- 💬 Ask me about **Competitive Programming and Front end Web Devlopment**
+- 💬 Ask me about **Competitive Programming and Back end Development**
 
 - 📫 How to reach me **st19138914@gmail.com**
 
