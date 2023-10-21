@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachindebug&label=Profile%20views&color=0e75b6&style=flat" alt="sachindebug" /> </p>
 
-- 🌱 I’m currently learning **Database Design**
+- 🌱 I’m currently learning **Low Level Design**
 
 - 💬 Ask me about **Competitive Programming and Back end Development**
 
