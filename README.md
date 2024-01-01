@@ -59,7 +59,6 @@
 ###
 <br clear="both">
 <img src="https://raw.githubusercontent.com/sachindebug/sachindebug/output/snake.svg" alt="Snake animation" />
-###
 </div>
 
 ###
